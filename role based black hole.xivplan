@@ -1,5 +1,5 @@
 {
-  "nextId": 109,
+  "nextId": 124,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -385,18 +385,18 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Supports and DPS get assigned first/second/third-in-line debuffs\n1 support and 1 dps will also receive Accretion debuffs\nand a duplicate first/second-in-line debuff",
+          "text": "Supports and DPS get assigned first/second/third-in-line debuffs\n1 healer and 1 dps will also receive Accretion debuffs\nand a duplicate first/second-in-line debuff",
           "x": 0,
           "y": 305,
           "id": 106
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215906_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Accretion",
           "iconId": 215906,
           "maxStacks": 0,
@@ -405,12 +405,12 @@
           "id": 107
         },
         {
+          "opacity": 100,
           "type": "icon",
           "image": "https://v2.xivapi.com/api/asset/ui/icon/215000/215906_hr1.tex?format=png",
           "width": 24,
           "height": 32,
           "rotation": 0,
-          "opacity": 100,
           "name": "Accretion",
           "iconId": 215906,
           "maxStacks": 0,
@@ -541,6 +541,30 @@
           "x": 295,
           "y": -13,
           "id": 75
+        },
+        {
+          "type": "icon",
+          "image": "/marker/bind1.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Bind 1",
+          "x": -95,
+          "y": 115,
+          "id": 109
+        },
+        {
+          "type": "icon",
+          "image": "/marker/attack1.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Attack 1",
+          "x": 355,
+          "y": 0,
+          "id": 110
         }
       ]
     },
@@ -770,6 +794,66 @@
           "x": 59,
           "y": 110,
           "id": 57
+        },
+        {
+          "type": "icon",
+          "image": "/marker/ignore1.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Ignore 1",
+          "x": -90,
+          "y": 100,
+          "id": 111
+        },
+        {
+          "type": "icon",
+          "image": "/marker/bind1.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Bind 1",
+          "x": 220,
+          "y": 275,
+          "id": 112
+        },
+        {
+          "type": "icon",
+          "image": "/marker/bind2.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Bind 2",
+          "x": 155,
+          "y": 80,
+          "id": 113
+        },
+        {
+          "type": "icon",
+          "image": "/marker/attack1.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Attack 1",
+          "x": 320,
+          "y": -145,
+          "id": 114
+        },
+        {
+          "type": "icon",
+          "image": "/marker/attack2.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Attack 2",
+          "x": -15,
+          "y": -85,
+          "id": 115
         }
       ]
     },
@@ -999,6 +1083,66 @@
           "x": 57,
           "y": 105,
           "id": 58
+        },
+        {
+          "type": "icon",
+          "image": "/marker/ignore2.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Ignore 2",
+          "x": -90,
+          "y": 100,
+          "id": 116
+        },
+        {
+          "type": "icon",
+          "image": "/marker/bind2.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Bind 2",
+          "x": 220,
+          "y": 275,
+          "id": 117
+        },
+        {
+          "type": "icon",
+          "image": "/marker/bind3.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Bind 3",
+          "x": 155,
+          "y": 80,
+          "id": 118
+        },
+        {
+          "type": "icon",
+          "image": "/marker/attack3.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Attack 3",
+          "x": -15,
+          "y": -85,
+          "id": 119
+        },
+        {
+          "type": "icon",
+          "image": "/marker/attack2.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Attack 2",
+          "x": 320,
+          "y": -145,
+          "id": 120
         }
       ]
     },
@@ -1123,6 +1267,30 @@
           "x": 288,
           "y": -19,
           "id": 65
+        },
+        {
+          "type": "icon",
+          "image": "/marker/attack3.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Attack 3",
+          "x": -55,
+          "y": 120,
+          "id": 121
+        },
+        {
+          "type": "icon",
+          "image": "/marker/bind3.png",
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "opacity": 100,
+          "name": "Bind 3",
+          "x": 345,
+          "y": -5,
+          "id": 122
         }
       ]
     }
