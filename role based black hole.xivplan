@@ -1,5 +1,5 @@
 {
-  "nextId": 224,
+  "nextId": 225,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -1487,6 +1487,20 @@
           "x": -20,
           "y": -100,
           "id": 223
+        },
+        {
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Start in role light parties\nDodge blizzard 3 into pairs",
+          "stroke": "#40352c",
+          "x": 205,
+          "y": 205,
+          "id": 224
         }
       ]
     },
@@ -1859,13 +1873,13 @@
           "id": 212
         },
         {
+          "opacity": 100,
           "type": "party",
           "image": "/actor/support.png",
           "name": "Support",
           "status": [],
           "width": 32,
           "height": 32,
-          "opacity": 100,
           "rotation": 0,
           "x": 0,
           "y": 0,
@@ -1908,15 +1922,15 @@
           "id": 218
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "After 2nd set\nDodge Blizzard 3",
-          "stroke": "#40352c",
           "x": -215,
           "y": -205,
           "id": 219
