@@ -1,5 +1,5 @@
 {
-  "nextId": 225,
+  "nextId": 226,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -1496,10 +1496,10 @@
           "opacity": 100,
           "style": "outline",
           "rotation": 0,
-          "text": "Start in role light parties\nDodge blizzard 3 into pairs",
+          "text": "Start in role light parties\nDodge Blizzard 3 into pairs",
           "stroke": "#40352c",
           "x": 205,
-          "y": 205,
+          "y": 200,
           "id": 224
         }
       ]
@@ -1710,9 +1710,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Role with stack goes mid",
+          "text": "Bait blizzard 3 puddles\nRole with stack goes mid",
           "x": 195,
-          "y": 180,
+          "y": 190,
           "id": 171
         },
         {
@@ -1724,9 +1724,9 @@
           "color": "#ffffff",
           "opacity": 100,
           "rotation": 0,
-          "text": "Other role takes towers",
+          "text": "Bait blizzard 3 puddles\nOther role takes towers",
           "x": -195,
-          "y": -180,
+          "y": -190,
           "id": 172
         }
       ]
